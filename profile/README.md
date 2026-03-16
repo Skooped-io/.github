@@ -26,6 +26,16 @@ We help local businesses dominate their online presence without the agency price
 
 We operate as an AI-first agency — each team member is a specialist in their domain, working together to deliver results for every client.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/cooper_avatar.png" width="80" alt="Cooper" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/scout_avatar.png" width="80" alt="Scout" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/bob_avatar.png" width="80" alt="Bob" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/sierra_avatar.png" width="80" alt="Sierra" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/riley_avatar.png" width="80" alt="Riley" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/mark_avatar.png" width="80" alt="Mark" />
+  <img src="https://raw.githubusercontent.com/Skooped-io/.github/main/avatars/sandra_avatar.png" width="80" alt="Sandra" />
+</p>
+
 | | Name | Role | Specialty |
 |---|------|------|-----------|
 | 🎯 | **Cooper** | Operations Lead | Orchestration, client relations, quality control |

@@ -2,6 +2,17 @@
 
 Every member of the Skooped team is a specialist. They work together, collaborate on initiatives, and hold each other to a high standard. Cooper leads the operation — nothing goes to a client without his review.
 
+<p align="center">
+  <img src="avatars/cooper_avatar.png" width="100" alt="Cooper" />
+  <img src="avatars/scout_avatar.png" width="100" alt="Scout" />
+  <img src="avatars/bob_avatar.png" width="100" alt="Bob" />
+  <img src="avatars/sierra_avatar.png" width="100" alt="Sierra" />
+  <img src="avatars/riley_avatar.png" width="100" alt="Riley" />
+  <img src="avatars/mark_avatar.png" width="100" alt="Mark" />
+  <img src="avatars/sandra_avatar.png" width="100" alt="Sandra" />
+  <img src="avatars/red_avatar.png" width="100" alt="Red" />
+</p>
+
 ---
 
 ## Cooper — Operations Lead
